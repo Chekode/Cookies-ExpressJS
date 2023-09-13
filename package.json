@@ -1,0 +1,17 @@
+{
+  "name": "cookies",
+  "version": "1.0.0",
+  "description": "Example in express to pass cookies in jwt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "nodemon app.js"
+  },
+  "author": "Sergio A.",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
